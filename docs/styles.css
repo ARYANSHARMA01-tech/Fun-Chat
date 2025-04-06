@@ -1,0 +1,38 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.hero-section {
+    background: linear-gradient(135deg, #6e8efb, #a777e3);
+    color: white;
+    padding: 100px 0;
+}
+
+.navbar {
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+section {
+    padding: 80px 0;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+pre {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 5px;
+    overflow-x: auto;
+}
+
+footer {
+    background-color: #343a40;
+}
