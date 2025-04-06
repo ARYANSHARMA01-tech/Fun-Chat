@@ -50,9 +50,9 @@ ChatRTC is a real-time chat application built using Android (Java/Kotlin) and Fi
 
 ## 📸 Screenshots
 
-**Login** | **Signup** | **Home Interface** | **Chat Interface**
-:---:|:---:|:---:|:---:
-<img src="https://github.com/user-attachments/assets/c460cf01-57b0-44b7-bd79-84af7e287acc" width="250"> | <img src="https://github.com/user-attachments/assets/5742c00a-5d35-4606-b8c9-1bf64ac9c67a" width="250"> | <img src="https://github.com/user-attachments/assets/bb0be3a1-adc1-4b8e-869c-55beb5a39493" width="250"> | <img src="https://github.com/user-attachments/assets/72c53d44-f852-4d72-bf34-fef076192b22" width="250">
+| **Login** | **Signup** | **Home Interface** | **Chat Interface** |
+|:---:|:---:|:---:|:---:|
+| ![Login](images/login.jpg) | ![Signup](images/signup.jpg) | ![Home](images/home.jpg) | ![Chat](images/chat.jpg) |
 ---
 
 ### **🤝 Contributing**  
